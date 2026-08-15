@@ -1,0 +1,15 @@
+DATASET COLUMN DESCRIPTIONS:
+
+price            - Price of the house
+area             - Area of the house
+bedrooms         - Number of bedrooms
+bathrooms        - Number of bathrooms
+stories          - Number of stories
+mainroad         - Whether the house is connected to the main road
+guestroom        - Whether the house has a guest room
+basement         - Whether the house has a basement
+hotwaterheating  - Whether the house has a hot water heater
+airconditioning  - Whether the house has air conditioning
+parking          - Number of parking spaces
+prefarea         - Whether the house is in a preferred area
+furnishingstatus - Furnishing status of the house
