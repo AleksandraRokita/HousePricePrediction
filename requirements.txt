@@ -3,3 +3,5 @@ pathlib
 matplotlib
 scikit-learn
 seaborn
+scipy
+numpy
